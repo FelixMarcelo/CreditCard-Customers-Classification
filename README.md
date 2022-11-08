@@ -5,7 +5,7 @@ First we will understand our dataset with a **Exploratory Analysis**<br>
 <br>
 The second step is a **Feature Engeniring** to identify the relevant features to our classification model and treat them to fit our model design<br>
 <br>
-The third and final step is **Model Desing**, where we'll apply three models and compare their results<br>
+The third and final step is **Model Desing**, where we'll build and apply three Machine Learning models and compare their results<br>
 <br>
 
 Let's begin!!
